@@ -2,6 +2,10 @@
 
 Native workspace file explorer plugin engineered specifically for DeepSeek Harness (DSH). Bridges local workspace navigation and AI-assisted conversation workflows with seamless chat referencing, fluid animations, and editor tab integration.
 
+<p align="center">
+  <img src="./assets/preview.png" alt="dsh-explorer preview" width="850" />
+</p>
+
 ---
 
 ## Key Features
