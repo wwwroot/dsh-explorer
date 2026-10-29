@@ -1,0 +1,5 @@
+# dsh-explorer bundle patch
+- insert:
+    - id: dsh-explorer
+      name: 'dsh-explorer'
+
