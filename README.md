@@ -51,11 +51,16 @@ Native workspace file explorer plugin engineered specifically for DeepSeek Harne
 
 ## Installation
 
-### Via DSH Plugin CLI
+### Via DSH Plugin CLI (NPM)
 ```sh
-dsh plugin --profile desktop add dsh-explorer
+dsh plugin --profile web add dsh-explorer
 ```
-*(or use `--profile web` for web profiles)*
+*(or use `--profile desktop` for desktop harness)*
+
+### Via Source (GitHub)
+```sh
+dsh plugin --profile web add github:wwwroot/dsh-explorer
+```
 
 ### Via cordis.patch.yml
 Add `dsh-explorer` to your profile configuration:

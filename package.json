@@ -44,6 +44,16 @@
     "package.json"
   ],
   "license": "MIT",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "file-explorer",
+    "workspace-explorer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwwroot/dsh-explorer.git"
+  },
   "dependencies": {
     "clsx": "^2.1.1",
     "ws": "^8.18.0",
