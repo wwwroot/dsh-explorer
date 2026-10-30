@@ -41,7 +41,8 @@
     "cordis.patch.yml",
     "icon.svg",
     "README.md",
-    "package.json"
+    "package.json",
+    "LICENSE"
   ],
   "license": "MIT",
   "keywords": [
